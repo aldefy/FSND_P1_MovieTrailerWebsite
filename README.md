@@ -4,4 +4,5 @@ Server-side code to store a list of favorite movies, including box art imagery a
 
 ## Screenshot
 
-...
+![](Screenshot0.png)
+![](Screenshot1.png)
